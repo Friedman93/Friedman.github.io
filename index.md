@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 你好，朋友！
 
 You can use the [editor on GitHub](https://github.com/Friedman93/Friedman93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
