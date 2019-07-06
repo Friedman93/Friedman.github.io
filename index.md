@@ -1,37 +1,7 @@
 ## 你好，朋友！
 
-You can use the [editor on GitHub](https://github.com/Friedman93/Friedman93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+缘分，它是出自佛教的一个宗教概念，儒家与道家并不讲缘分，也不讲你与我有缘之说。 后世缘喻为命运纠缠的丝线，亦作缘份；它是一种人与人之间无形的连结；它是某种必然存在的相遇的机会和可能，包括所有情感。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+缘分是由很多巧合、很多阴差阳错、很多突然、一些偶然、一些必然组成的。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Friedman93/Friedman93.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+在我看来，大千世界，你我能够相遇即是缘分！
